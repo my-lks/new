@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/back.jpg</file>
+        <file>images/camora.bmp</file>
+        <file>images/light.bmp</file>
+        <file>images/light.jpg</file>
+        <file>images/music.bmp</file>
+        <file>images/redlight.jpg</file>
+        <file>images/run.jpg</file>
+        <file>images/setting.bmp</file>
+        <file>images/warning.gif</file>
+    </qresource>
+</RCC>

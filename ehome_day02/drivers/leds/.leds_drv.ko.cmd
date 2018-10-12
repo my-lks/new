@@ -1,0 +1,1 @@
+cmd_/home/tarena/project/drivers/leds/leds_drv.ko := arm-cortex_a9-linux-gnueabi-ld -EL -r  -T /home/tarena/project/kernel/scripts/module-common.lds --build-id  -o /home/tarena/project/drivers/leds/leds_drv.ko /home/tarena/project/drivers/leds/leds_drv.o /home/tarena/project/drivers/leds/leds_drv.mod.o
